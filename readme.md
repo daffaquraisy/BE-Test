@@ -6,7 +6,7 @@
 
 3. Store data data yang ada di https://livethreatmap.radware.com/api/map/attacks?limit=10 ke dalam database postgres, lalu buatkan 1 endpoint sederhana untuk mendaptkan berapa jumlah "destinationCountry" yang di serang beberapa type dan "sourcecountry" yang menyerang dengan beberapa type
    dan wajib mempunyai response dengan bentuk seperti ini :
-   (tulis code mu di getData function)
+   (tulis code mu di getData function, pake query native)
 
 ```
 {
