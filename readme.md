@@ -1,4 +1,4 @@
-# Beberapa point untuk test yang akan di berikan
+# Beberapa point untuk test yang akan diberikan
 
 0. Sebelum mengerjakan semua soal dengan sendiri, tanya kan setiap masalah masalah ini ke chatgpt, jadi nanti ada jawaban versi chatgpt dan ada jawaban versi diri mu
 
