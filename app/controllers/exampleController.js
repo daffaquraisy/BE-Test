@@ -1,4 +1,4 @@
-const dataLatLon = require("./files/latlon.js");
+const dataLatLon = require("../../files/latlon.js");
 
 let data = dataLatLon
 
