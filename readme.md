@@ -29,5 +29,3 @@
 6. Buatkan unit test untuk mentest si endpoint berjalan dengan baik.
 
 7. Push hasil test ini di github mu
-
-*poin penilaian dilihat dari proses pengerjaan nya bukan benar atau salahnya
